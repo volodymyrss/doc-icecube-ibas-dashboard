@@ -11,3 +11,8 @@ but generally beyond 300s FAP is almost always going to be low, except for reall
 * IceCube event was retracted, supporting that FAP of 0.02 is reliable, and it is better to use consistent results from dashboard if unsure
 * also dashboard and the workflows are operating just fine for many months without interventions
 
+## Conslusion
+
+As also written in the ticket,there are several cases that look too good to be false, but were properly dismissed by automation, and later discarded as clearly instrumental and unrelated: with GW, FRB, now neutrino. We keep track of these just as much as of the undiscarded results.
+
+The O3 paper should give some focus on how biases can drive researchers, and pre-defined workflow automation is the safest way to discover.
